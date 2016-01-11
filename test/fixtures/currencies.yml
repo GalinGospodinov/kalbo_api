@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  code: MyString
+  sell_for: 1
+  buy: 9.99
+  sell: 9.99
+
+two:
+  name: MyString
+  code: MyString
+  sell_for: 1
+  buy: 9.99
+  sell: 9.99
